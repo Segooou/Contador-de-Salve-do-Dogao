@@ -1,4 +1,4 @@
-# segou
+# Segou
 
 A new Flutter project.
 
